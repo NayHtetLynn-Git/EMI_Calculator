@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="loading_view_progress_size">50dp</dimen>
+    <dimen name="loading_view_margin_layout">10dp</dimen>
+    <dimen name="loading_view_margin_right">5dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_minor">8dp</dimen>
+    <dimen name="spacing_major">16dp</dimen>
+    <dimen name="spacing_not_so_massive">18dp</dimen>
+    <dimen name="spacing_massive">24dp</dimen>
+    <dimen name="spacing_2dp">2dp</dimen>
+
+    <dimen name="text_size_tiny">10sp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+
+    <integer name="text_alpha">80</integer>
+    <integer name="ripple_duration">200</integer>
+
+    <dimen name="toolbar_size">38dp</dimen>
+    <dimen name="floating_margin">0dp</dimen>
+    <dimen name="cardview_elevation">5dp</dimen>
+
+    <dimen name="dgv_overlap_if_switch_straight_line">16dp</dimen> <!--need in DynamicGridView.java-->
+
+</resources>
