@@ -121,6 +121,7 @@ public class HomeLoanCalculatorFragment extends Fragment {
         data.setValueTextColor(Color.BLACK);
 
         chart.setData(data);
+        chart.animateXY(1000,1000);
         chart.invalidate();
     }
 
